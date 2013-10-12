@@ -230,7 +230,7 @@ div.itemTagsBlock {padding:4px;border-bottom:1px dotted #ccc;}
 div.itemAttachmentsBlock {padding:4px;border-bottom:1px dotted #ccc;}
 	div.itemAttachmentsBlock span {font-weight:bold;color:#555;padding:0 4px 0 0;}
 	div.itemAttachmentsBlock ul.itemAttachments {list-style:none;padding:0;margin:0;display:inline;}
-	div.itemAttachmentsBlock ul.itemAttachments li {display:inline;list-style:none;padding:0 4px;margin:0;text-align:center;}
+	div.itemAttachmentsBlock ul.itemAttachments li {display:inline;list-style:none;padding:0 4px;margin:0;text-align:left;}
 	div.itemAttachmentsBlock ul.itemAttachments li a {}
 	div.itemAttachmentsBlock ul.itemAttachments li a:hover {}
 	div.itemAttachmentsBlock ul.itemAttachments li span {font-size:10px;color:#999;font-weight:normal;}
